@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1704818131714,
+  "timestamp": 1704818561583,
   "index": "https://LdTrc.github.io/angulars212102371/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://LdTrc.github.io/angulars212102371/favicon.ico",
         "https://LdTrc.github.io/angulars212102371/index.html",
-        "https://LdTrc.github.io/angulars212102371/main.76a00d235e43e070.js",
+        "https://LdTrc.github.io/angulars212102371/main.edc351688811c9ee.js",
         "https://LdTrc.github.io/angulars212102371/manifest.webmanifest",
         "https://LdTrc.github.io/angulars212102371/polyfills.b26b6a7f571dda86.js",
         "https://LdTrc.github.io/angulars212102371/runtime.1a41b4af0aa05a9e.js",
@@ -4208,8 +4208,8 @@
     "https://LdTrc.github.io/angulars212102371/assets/plugins/uplot/uPlot.iife.min.js": "7a3629b55b36cb872aa39a28334d2ff42e4d0062",
     "https://LdTrc.github.io/angulars212102371/assets/plugins/uplot/uPlot.min.css": "534fd0aff8141c18e7cae32fe902495ff49fe8c5",
     "https://LdTrc.github.io/angulars212102371/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://LdTrc.github.io/angulars212102371/index.html": "82dac4b1138b935d893e6b799b31e54548ec1ce5",
-    "https://LdTrc.github.io/angulars212102371/main.76a00d235e43e070.js": "77d295fb10128b4255740aaabc55b09d42778d4a",
+    "https://LdTrc.github.io/angulars212102371/index.html": "715de895247aad96387d6740c99faf07a16b89d5",
+    "https://LdTrc.github.io/angulars212102371/main.edc351688811c9ee.js": "01256ce3b41f3f752f7cae3699e909edffe00dc4",
     "https://LdTrc.github.io/angulars212102371/manifest.webmanifest": "7ccffd16d9268dbb8444f62bcede14968e2b31cb",
     "https://LdTrc.github.io/angulars212102371/polyfills.b26b6a7f571dda86.js": "96fdccb2b8e55ee2430667af7d18a5d6fdcd28fe",
     "https://LdTrc.github.io/angulars212102371/runtime.1a41b4af0aa05a9e.js": "2681facd5eca1a3a524c74e5cf5b254506d66664",
