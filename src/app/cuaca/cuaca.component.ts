@@ -22,8 +22,6 @@ export class CuacaComponent implements OnInit, AfterViewInit {
     this.renderer.removeClass(document.body, 'sidebar-open');
     this.renderer.addClass(document.body, 'sidebar-closed');
 
-    
-
     this.table1 = $('#table1').DataTable({
       columnDefs: [
         {
@@ -67,7 +65,7 @@ export class CuacaComponent implements OnInit, AfterViewInit {
   bind_table1(): void {
     this.http
       .get(
-        'http://api.openweathermap.org/data/2.5/forecast?id=1630789&appid=ec9b1318ed140f87a319d015fa0dbeaa'
+        'https://api.openweathermap.org/data/2.5/forecast?id=1630789&appid=ec9b1318ed140f87a319d015fa0dbeaa'
       )
       .subscribe((data: any) => {
         console.log(data);
